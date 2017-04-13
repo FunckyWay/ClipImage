@@ -1,0 +1,12 @@
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\bin\iPhone\Debug\ImgDealer.exe
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\bin\iPhone\Debug\ImgDealer.pdb
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\optimized\
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\optimized\Entitlements.plist
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\ImgDealer.csprojResolveAssemblyReference.cache
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\ImgDealer.exe
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\ImgDealer.pdb
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\obj\iPhone\Debug\ImgDealer.exe.mdb
+C:\Users\HopTech\Documents\Visual Studio 2015\Projects\ImgDealer\ImgDealer\bin\iPhone\Debug\ImgDealer.exe.mdb
